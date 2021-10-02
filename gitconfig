@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = munir.jahangir@gmail.com
+	name = Munir Jahangir
